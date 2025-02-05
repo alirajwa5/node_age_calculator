@@ -72,4 +72,21 @@ button:hover {
 .error {
   color: #dc3545;
   font-weight: 500;
+}
+
+.about-section {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 0.5rem;
+}
+
+.faq h2 {
+    margin-top: 2rem;
+    color: #2c3e50;
+}
+
+.faq h3 {
+    color: #4CAF50;
+    margin: 1rem 0;
 } 
